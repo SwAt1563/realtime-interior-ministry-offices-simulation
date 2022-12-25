@@ -10,6 +10,12 @@ they need to see issued some official documents such as birth certificates, trav
 family reunion documents, ID-related problems, etc. I will remove some extra real painful
 steps to make it easy on you to simulate the application. [more_details](https://github.com/SwAt1563/realtime-interior-ministry-offices-simulation/blob/main/project2_ipc.pdf)
 
+
+
+https://user-images.githubusercontent.com/79475839/209480712-d32150fa-7ede-48e2-8564-23d4f5da8df9.mp4
+
+
+
 ## Features
 
 - Realtime
