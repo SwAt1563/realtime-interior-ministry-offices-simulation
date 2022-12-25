@@ -8,7 +8,7 @@ that handle issues relating to Palestinian citizens living in Jerusalem. That wi
 the opportunity to see the pain Palestinians living in Jerusalem have to go through when
 they need to see issued some official documents such as birth certificates, travel documents,
 family reunion documents, ID-related problems, etc. I will remove some extra real painful
-steps to make it easy on you to simulate the application. [more_details](https://github.com/SwAt1563/realtime-interior-ministry-offices-simulation/blob/main/project2_ipc.pdf)
+steps to make it easy on you to simulate the application. [more](https://github.com/SwAt1563/realtime-interior-ministry-offices-simulation/blob/main/project2_ipc.pdf)
 
 
 
