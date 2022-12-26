@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/79475839/209480712-d32150fa-7ede-48e2-
 - Clone the repository `git clone https://github.com/SwAt1563/realtime-interior-ministry-offices-simulation.git`
 - Open the project `cd realtime-interior-ministry-offices-simulation`
 - Run the docker-compose `docker-compose -f docker-compose.yml up --build -d`
-- Open the VNC Viwer on this url `localhost:6001`
+- Open the VNC Viwer on this url `localhost:6001` with password `headless`
 - Open the Git and write `winpty docker exec -it container_id bash`
 - Then run this command on git bash `./run.sh`
 
